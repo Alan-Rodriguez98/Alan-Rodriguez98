@@ -14,7 +14,7 @@
 <div align="center">
   <h3>🛠️ Languages and Tools: </h3>
   <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="180" height="180"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="150" height="150"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CCS3" alt="CCS3" width="180" height="180"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="180" height="180"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="180" height="180"/>&nbsp;

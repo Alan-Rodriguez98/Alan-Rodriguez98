@@ -1,9 +1,9 @@
-### Hi there 👋
-
-<!--
-**Alan-Rodriguez98/Alan-Rodriguez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="200" />
+  <h1 align="center">Hi 👋, Soy AlanRodriguez98</h1>
+  <h3 align="center"> I am a graduate of the Technological Institute of Tláhuac
+    with the specialty of "WEB Services Administration”.</h3>
+  </div>
 
 🙍‍♂️ About me:
 

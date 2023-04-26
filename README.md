@@ -7,7 +7,7 @@
 
 🙍‍♂️ About me:
 
-► 🗨️ Ask me about: PHP, HTML, CCS, Javascript, Codeigniter 4.<br>
+► 🗨️ Ask me about: PHP, HTML5, CCS3, Javascript, Codeigniter 4.<br>
 ► 📧 How to contact me alandejesus98@hotmail.com. <br>
 ► 🏫 I'm currently learning Git, SQL Server, C#, Python.<br>
 

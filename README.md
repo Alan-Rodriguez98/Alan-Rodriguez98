@@ -19,6 +19,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="120" height="120"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="120" height="120"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="120" height="120"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual-Studio" alt="Visual-Studio" width="120" height="120"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sql-server" alt="SQL-SERVER" width="120" height="120"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual-Studio" alt="Visual-Studio" width="100" height="100"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sql-server" alt="SQL-SERVER" width="100" height="100"/>&nbsp;
 

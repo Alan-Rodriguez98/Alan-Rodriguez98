@@ -16,9 +16,9 @@
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="180" height="180"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CCS3" alt="CCS3" width="180" height="180"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="180" height="180"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="180" height="180"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="180" height="180"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="180" height="180"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="180" height="180"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="180" height="180"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="180" height="180"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="180" height="180"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual-Studio" alt="Visual-Studio" width="180" height="180"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sql-server" alt="SQL-SERVER" width="180" height="180"/>&nbsp;
 

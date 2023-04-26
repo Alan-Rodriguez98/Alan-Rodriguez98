@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="500" />
   <h1 align="center">Hi 👋, Soy AlanRodriguez98</h1>
   <h3 align="center"> I am a graduate of the Technological Institute of Tláhuac
     with the specialty of "WEB Services Administration”.</h3>

@@ -11,4 +11,8 @@
 ► 📧 How to contact me alandejesus98@hotmail.com.
 ► 🏫 I'm currently learning Git, SQL Server, C#, Python.
 
-🛠️ Languages and Tools:
+<div align="center">
+  <h3>🛠️ Languages and Tools: </h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+

@@ -12,7 +12,7 @@
 ► 🏫 I'm currently learning Git, SQL Server, C#, Python.<br>
 
 <div align="center">
-  <h3>🛠️ Languages and Tools: </h3>
+  <h3>🛠️ Languages and Tools: </h3><br>
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="120" height="120"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CCS3" alt="CCS3" width="120" height="120"/>&nbsp;

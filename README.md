@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 ► 🗨️ Ask me about: PHP, HTML, CCS, Javascript, Codeigniter 4.
 ► 📧 How to contact me alandejesus98@hotmail.com.
 ► 🏫 I'm currently learning Git, SQL Server, C#, Python.
+
+🛠️ Languages and Tools:
